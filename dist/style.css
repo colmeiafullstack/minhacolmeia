@@ -372,9 +372,11 @@ body {
     top: calc(2em + 160px);
   }
 }
-@media (max-width: 720px) {
+@media (max-width: 230px) {
   .icon-container.connect .icon-holder {
     margin-left: -3px;
+    margin-top: -3px;
+
   }
 }
 @-webkit-keyframes hex_boom {
